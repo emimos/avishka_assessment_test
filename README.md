@@ -1,8 +1,17 @@
 # Customer Support Ticket System
 
+
+
+I confirm this submission was
+written by me without generative AI assistance. Any copied snippets/libraries are
+credited below.
+
+Avishka Indrajith
+
 This is a Customer Support Ticket System built with Laravel and Tailwind CSS. It enables customers to submit support tickets, check real-time status updates using a unique reference code, and communicate with support agents via follow-up replies.
 
 ---
+
 
 ## Key Features
 
@@ -45,8 +54,8 @@ Follow these step-by-step instructions to set up the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/test_coding_application.git
-cd test_coding_application
+git clone https://github.com/emimos/avishka_assessment_test.git
+cd avishka_assessment_test
 ```
 
 ### 2. Install PHP & Node Dependencies
@@ -87,7 +96,7 @@ php artisan migrate --seed
 
 ---
 
-## 📧 Mail Setup Configuration
+## Mail Setup Configuration
 
 SupportPro sends automated emails for ticket creation acknowledgements and agent replies.
 
@@ -127,7 +136,7 @@ After running `php artisan migrate --seed`, use the default credentials below to
 
 ---
 
-## 🏃 Running the Application locally
+## Running the Application locally
 
 Start the Laravel development server and Vite asset bundler:
 
@@ -184,4 +193,5 @@ test_coding_application/
 └── routes/web.php                        # Application route definitions
 ```
 
----
+
+
